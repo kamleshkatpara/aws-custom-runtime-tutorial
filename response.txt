@@ -1,0 +1,1 @@
+{"errorType":"Runtime.InvalidEntrypoint","errorMessage":"RequestId: e2010b31-58de-4c03-8141-fe1b027c9199 Error: fork/exec /opt/bootstrap: no such file or directory"}
